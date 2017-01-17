@@ -1,0 +1,36 @@
+01-17 10:45:45.011 798-798/edu.washington.swalden1.activityspy D/ActivityThread: setTargetHeapUtilization:0.25
+01-17 10:45:45.021 798-798/edu.washington.swalden1.activityspy D/ActivityThread: setTargetHeapIdealFree:8388608
+01-17 10:45:45.021 798-798/edu.washington.swalden1.activityspy D/ActivityThread: setTargetHeapConcurrentStart:2097152
+01-17 10:45:45.081 798-798/edu.washington.swalden1.activityspy W/dalvikvm: VFY: unable to resolve virtual method 193: Landroid/app/Application;.registerOnProvideAssistDataListener (Landroid/app/Application$OnProvideAssistDataListener;)V
+01-17 10:45:45.091 798-798/edu.washington.swalden1.activityspy W/dalvikvm: VFY: unable to resolve virtual method 196: Landroid/app/Application;.unregisterOnProvideAssistDataListener (Landroid/app/Application$OnProvideAssistDataListener;)V
+01-17 10:45:45.101 798-798/edu.washington.swalden1.activityspy I/InstantRun: Instant Run Runtime started. Android package is edu.washington.swalden1.activityspy, real application class is null.
+01-17 10:45:45.111 798-798/edu.washington.swalden1.activityspy W/InstantRun: No instant run dex files added to classpath
+01-17 10:45:45.131 798-798/edu.washington.swalden1.activityspy E/dalvikvm: Could not find class 'android.util.ArrayMap', referenced from method com.android.tools.fd.runtime.MonkeyPatcher.monkeyPatchExistingResources
+01-17 10:45:45.131 798-798/edu.washington.swalden1.activityspy W/dalvikvm: VFY: unable to resolve check-cast 52 (Landroid/util/ArrayMap;) in Lcom/android/tools/fd/runtime/MonkeyPatcher;
+01-17 10:45:45.131 798-798/edu.washington.swalden1.activityspy E/dalvikvm: Could not find class 'android.util.ArrayMap', referenced from method com.android.tools.fd.runtime.MonkeyPatcher.pruneResourceCache
+01-17 10:45:45.141 798-798/edu.washington.swalden1.activityspy W/dalvikvm: VFY: unable to resolve const-class 52 (Landroid/util/ArrayMap;) in Lcom/android/tools/fd/runtime/MonkeyPatcher;
+01-17 10:45:45.332 798-798/edu.washington.swalden1.activityspy I/MainActivity: onCreate event fired
+01-17 10:45:45.342 798-798/edu.washington.swalden1.activityspy I/MainActivity: onStart event fired
+01-17 10:45:45.342 798-798/edu.washington.swalden1.activityspy I/MainActivity: onResume event fired
+01-17 10:45:45.452 798-798/edu.washington.swalden1.activityspy I/MainActivity: onPause event fired
+01-17 10:45:45.552 798-798/edu.washington.swalden1.activityspy I/Adreno200-EGLSUB: <ConfigWindowMatch:2136>: Format RGBA_8888.
+01-17 10:45:45.602 798-798/edu.washington.swalden1.activityspy I/MainActivity: onStop event fired
+01-17 10:45:52.960 798-798/edu.washington.swalden1.activityspy I/MainActivity: onRestart event fired
+01-17 10:45:52.960 798-798/edu.washington.swalden1.activityspy I/MainActivity: onStart event fired
+01-17 10:45:53.000 798-798/edu.washington.swalden1.activityspy I/MainActivity: onResume event fired
+01-17 10:46:00.818 798-798/edu.washington.swalden1.activityspy I/MainActivity: onPause event fired
+01-17 10:46:01.429 798-798/edu.washington.swalden1.activityspy I/MainActivity: onStop event fired
+01-17 10:46:04.472 798-798/edu.washington.swalden1.activityspy I/MainActivity: onRestart event fired
+01-17 10:46:04.472 798-798/edu.washington.swalden1.activityspy I/MainActivity: onStart event fired
+01-17 10:46:04.472 798-798/edu.washington.swalden1.activityspy I/MainActivity: onResume event fired
+01-17 10:46:04.492 798-798/edu.washington.swalden1.activityspy I/Adreno200-EGLSUB: <ConfigWindowMatch:2136>: Format RGBA_8888.
+01-17 10:46:11.660 798-798/edu.washington.swalden1.activityspy I/MainActivity: onPause event fired
+01-17 10:46:12.260 798-798/edu.washington.swalden1.activityspy I/MainActivity: onStop event fired
+01-17 10:46:22.878 798-798/edu.washington.swalden1.activityspy I/MainActivity: onRestart event fired
+01-17 10:46:22.878 798-798/edu.washington.swalden1.activityspy I/MainActivity: onStart event fired
+01-17 10:46:22.878 798-798/edu.washington.swalden1.activityspy I/MainActivity: onResume event fired
+01-17 10:46:22.898 798-798/edu.washington.swalden1.activityspy I/Adreno200-EGLSUB: <ConfigWindowMatch:2136>: Format RGBA_8888.
+01-17 10:46:30.686 798-798/edu.washington.swalden1.activityspy I/MainActivity: onPause event fired
+01-17 10:46:31.176 798-798/edu.washington.swalden1.activityspy I/MainActivity: onStop event fired
+01-17 10:46:32.478 798-798/edu.washington.swalden1.activityspy I/MainActivity: onDestroy event fired
+01-17 10:46:32.478 798-798/edu.washington.swalden1.activityspy E/MainActivity: We're going down, Captain!
